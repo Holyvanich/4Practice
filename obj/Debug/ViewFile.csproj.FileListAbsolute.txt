@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\ViewFile\ViewFile\bin\Debug\ViewFile.exe
+C:\Users\student\source\repos\ViewFile\ViewFile\bin\Debug\ViewFile.pdb
+C:\Users\student\source\repos\ViewFile\ViewFile\obj\Debug\ViewFile.csprojAssemblyReference.cache
+C:\Users\student\source\repos\ViewFile\ViewFile\obj\Debug\ViewFile.Form1.resources
+C:\Users\student\source\repos\ViewFile\ViewFile\obj\Debug\ViewFile.Properties.Resources.resources
+C:\Users\student\source\repos\ViewFile\ViewFile\obj\Debug\ViewFile.csproj.GenerateResource.cache
+C:\Users\student\source\repos\ViewFile\ViewFile\obj\Debug\ViewFile.exe
+C:\Users\student\source\repos\ViewFile\ViewFile\obj\Debug\ViewFile.pdb
